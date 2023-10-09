@@ -1,0 +1,15 @@
+C:\Users\ODUS\desktop\MGQS\c#classes\GuessTheNumberGame\bin\Debug\net6.0\GuessTheNumberGame.exe
+C:\Users\ODUS\desktop\MGQS\c#classes\GuessTheNumberGame\bin\Debug\net6.0\GuessTheNumberGame.deps.json
+C:\Users\ODUS\desktop\MGQS\c#classes\GuessTheNumberGame\bin\Debug\net6.0\GuessTheNumberGame.runtimeconfig.json
+C:\Users\ODUS\desktop\MGQS\c#classes\GuessTheNumberGame\bin\Debug\net6.0\GuessTheNumberGame.dll
+C:\Users\ODUS\desktop\MGQS\c#classes\GuessTheNumberGame\bin\Debug\net6.0\GuessTheNumberGame.pdb
+C:\Users\ODUS\desktop\MGQS\c#classes\GuessTheNumberGame\obj\Debug\net6.0\GuessTheNumberGame.csproj.AssemblyReference.cache
+C:\Users\ODUS\desktop\MGQS\c#classes\GuessTheNumberGame\obj\Debug\net6.0\GuessTheNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ODUS\desktop\MGQS\c#classes\GuessTheNumberGame\obj\Debug\net6.0\GuessTheNumberGame.AssemblyInfoInputs.cache
+C:\Users\ODUS\desktop\MGQS\c#classes\GuessTheNumberGame\obj\Debug\net6.0\GuessTheNumberGame.AssemblyInfo.cs
+C:\Users\ODUS\desktop\MGQS\c#classes\GuessTheNumberGame\obj\Debug\net6.0\GuessTheNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\ODUS\desktop\MGQS\c#classes\GuessTheNumberGame\obj\Debug\net6.0\GuessTheNumberGame.dll
+C:\Users\ODUS\desktop\MGQS\c#classes\GuessTheNumberGame\obj\Debug\net6.0\refint\GuessTheNumberGame.dll
+C:\Users\ODUS\desktop\MGQS\c#classes\GuessTheNumberGame\obj\Debug\net6.0\GuessTheNumberGame.pdb
+C:\Users\ODUS\desktop\MGQS\c#classes\GuessTheNumberGame\obj\Debug\net6.0\GuessTheNumberGame.genruntimeconfig.cache
+C:\Users\ODUS\desktop\MGQS\c#classes\GuessTheNumberGame\obj\Debug\net6.0\ref\GuessTheNumberGame.dll
